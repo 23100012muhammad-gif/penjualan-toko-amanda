@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-DCIKVfrU.js";import{n as o,t as a}from"./vendor-chartjs-BMnHYBQu.js";import{n as s}from"./vendor-utils-CJuYIZLr.js";import{t}from"./vendor-maps-Bm1ilmn3.js";t();var i=r(s(),1);a.register(...o),window.Chart=a;var n=(0,i.default)(window);window.Skycons=n;var d={Chart:a,Skycons:n,L:window.L,initialized:!0};export{d as default};

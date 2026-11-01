@@ -1,0 +1,1 @@
+var r={log:(...r)=>{},warn:(...r)=>{},error:(...r)=>{},info:(...r)=>{},debug:(...r)=>{},group:(...r)=>{},groupEnd:()=>{}};export{r as t};

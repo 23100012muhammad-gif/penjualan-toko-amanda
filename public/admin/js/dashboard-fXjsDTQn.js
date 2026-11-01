@@ -1,0 +1,1 @@
+var a={initialized:!0};export{a as default};
