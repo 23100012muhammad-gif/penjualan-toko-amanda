@@ -10,7 +10,7 @@ Aplikasi berbasis web yang dikembangkan untuk membantu proses pengelolaan penjua
 - Pengelolaan data pengeluaran operasional.
 - Pengelolaan data pengguna.
 - Pembuatan laporan terkait transaksi dan persediaan barang.
-- Laporan laba rugi.
+- Laporan penjualan, pembelian, persediaan, pengeluaran, laba rugi.
 
 ## Teknologi yang Digunakan
 
